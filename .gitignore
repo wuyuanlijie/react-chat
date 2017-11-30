@@ -17,6 +17,7 @@
 .env.test.local
 .env.production.local
 
+#编辑需要去忽略的文件
 yarn.lock
 package-lock.json
 /lijie
